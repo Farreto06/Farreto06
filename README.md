@@ -1,6 +1,6 @@
 <!--### Hi, I'm Farrauto-->
 <div align="center">
-<h1 align="center">hi, i am <a href="https://aristi.dev">Farrauto</a> 👋</h1>
+<h1 align="center">Hi, i am <a href="https://aristi.dev">Farrauto</a> 👋</h1>
 </div>
 <img src="https://github.com/Farreto06/Farreto06/assets/141441733/250fc67a-2ff6-442a-b4db-b776ac41cd60">
 
